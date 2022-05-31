@@ -1,5 +1,3 @@
-### Olá eu sou o Waltenne Carvalho
-
 ![Header](./github-header-image.png)
 
 #### Contacts
